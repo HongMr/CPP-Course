@@ -5,3 +5,6 @@ Learn about CPP
 
 https://github.com/dotnetcore/FastGithub
 
+执行命令：
+D:\tools\FastGithub-master\fastgithub_win-x64>fastgithub.exe start
+
