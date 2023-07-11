@@ -1,0 +1,10 @@
+^D:\PERSON\LEARN\CPP-COURSE\CPP45类和对象-继承-基本语法\BUILD\CMAKEFILES\70EE539CC2EB1CC1804C95A1D436EF21\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Person/learn/CPP-Course/CPP45类和对象-继承-基本语法 -BD:/Person/learn/CPP-Course/CPP45类和对象-继承-基本语法/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Person/learn/CPP-Course/CPP45类和对象-继承-基本语法/build/CPP45.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
