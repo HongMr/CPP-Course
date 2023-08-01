@@ -1,0 +1,10 @@
+^D:\PERSON\LEARN\CPP-COURSE\CPP15.3-面向对象程序设计-虚函数OVERRIDE\BUILD\CMAKEFILES\B67BD21A9E101FD3D958434C079D4AB5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Person/learn/CPP-Course/CPP15.3-面向对象程序设计-虚函数override -BD:/Person/learn/CPP-Course/CPP15.3-面向对象程序设计-虚函数override/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Person/learn/CPP-Course/CPP15.3-面向对象程序设计-虚函数override/build/AppCpp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

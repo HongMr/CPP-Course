@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Person\learn\CPP-Course\CPP15.3-面向对象程序设计-虚函数override\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Person\learn\CPP-Course\CPP15.3-面向对象程序设计-虚函数override\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1417B2C5-CC38-3567-A2BF-AAB003743D39}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
