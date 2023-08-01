@@ -1,0 +1,10 @@
+^D:\PERSON\LEARN\CPP-COURSE\CPP13.1.1-拷贝构造函数\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Person/learn/CPP-Course/CPP13.1.1-拷贝构造函数 -BD:/Person/learn/CPP-Course/CPP13.1.1-拷贝构造函数/build --check-stamp-file D:/Person/learn/CPP-Course/CPP13.1.1-拷贝构造函数/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
