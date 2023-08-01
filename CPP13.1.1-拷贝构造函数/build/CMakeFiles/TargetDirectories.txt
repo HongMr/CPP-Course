@@ -1,3 +1,0 @@
-D:/Person/learn/CPP-Course/CPP13.1.1-拷贝构造函数/build/CMakeFiles/AppCpp.dir
-D:/Person/learn/CPP-Course/CPP13.1.1-拷贝构造函数/build/CMakeFiles/ALL_BUILD.dir
-D:/Person/learn/CPP-Course/CPP13.1.1-拷贝构造函数/build/CMakeFiles/ZERO_CHECK.dir
