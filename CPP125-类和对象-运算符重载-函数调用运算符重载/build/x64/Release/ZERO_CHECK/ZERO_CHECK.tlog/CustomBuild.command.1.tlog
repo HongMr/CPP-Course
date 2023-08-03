@@ -1,0 +1,10 @@
+^D:\PERSON\LEARN\CPP-COURSE\CPP125-类和对象-运算符重载-函数调用运算符重载\BUILD\CMAKEFILES\ED63214C2A0A8CA59F4164909F92850E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Person/learn/CPP-Course/CPP125-类和对象-运算符重载-函数调用运算符重载 -BD:/Person/learn/CPP-Course/CPP125-类和对象-运算符重载-函数调用运算符重载/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Person/learn/CPP-Course/CPP125-类和对象-运算符重载-函数调用运算符重载/build/AppCpp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

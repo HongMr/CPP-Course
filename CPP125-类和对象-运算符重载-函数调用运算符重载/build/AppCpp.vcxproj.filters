@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Person\learn\CPP-Course\CPP125-类和对象-运算符重载-函数调用运算符重载\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Person\learn\CPP-Course\CPP125-类和对象-运算符重载-函数调用运算符重载\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B4421F04-763E-3777-9D79-B7F26B7897F4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
