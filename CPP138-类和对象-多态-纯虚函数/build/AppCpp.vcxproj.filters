@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Person\learn\CPP-Course\CPP138-类和对象-多态-纯虚函数\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Person\learn\CPP-Course\CPP138-类和对象-多态-纯虚函数\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CE5AB591-D056-3910-B618-4175FC958FE9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

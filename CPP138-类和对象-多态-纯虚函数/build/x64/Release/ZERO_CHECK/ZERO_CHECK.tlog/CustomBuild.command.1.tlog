@@ -1,0 +1,10 @@
+^D:\PERSON\LEARN\CPP-COURSE\CPP138-类和对象-多态-纯虚函数\BUILD\CMAKEFILES\EA2DD888412FC235AB61EFD778E41488\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Person/learn/CPP-Course/CPP138-类和对象-多态-纯虚函数 -BD:/Person/learn/CPP-Course/CPP138-类和对象-多态-纯虚函数/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Person/learn/CPP-Course/CPP138-类和对象-多态-纯虚函数/build/AppCpp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
